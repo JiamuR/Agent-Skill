@@ -1,0 +1,4 @@
+interface:
+  display_name: "简易化需求撰写"
+  short_description: "将业务需求简明写清，供IT和相关业务同事阅办、调整或形成开发文档"
+  default_prompt: "使用 $simple-requirement-writing，依据我提供的材料撰写一份供IT和业务同事阅办的简明需求。"
