@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent初始化配置skill"
+  short_description: "确认工作空间和C盘限制，管理附件、记忆与配置写入，支持异常恢复"
+  default_prompt: "使用 $agent-workspace-init 检查工作目录、文件夹用途和 C 盘限制，沿用已有配置、逐项确认缺项，先说明方案及进度，迁移、删除、写入记忆或 agent.md 须确认具体操作。"
